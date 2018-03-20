@@ -1,0 +1,2 @@
+https://github.com/jenkinsci/git-plugin
+https://github.com/jenkinsci/workflow-job-plugin
